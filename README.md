@@ -9,7 +9,8 @@
 
 ---
 
-
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=canng&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=canng&langs_count=5&hide=javascript,go,html,css,tex)
 
 
 
