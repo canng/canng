@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/canng?style=social)](https://github.com/canng?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/canntrg?style=social)](https://x.com/canntrg)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/trong-can-nguyen-b76b0a1a1/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/can-t-nguyen-b76b0a1a1/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://canng.github.io/cv/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=canng.canng)
 
